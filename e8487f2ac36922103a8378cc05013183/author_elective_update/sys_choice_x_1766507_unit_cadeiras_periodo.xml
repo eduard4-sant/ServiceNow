@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="periodo" table="x_1766507_unit_cadeiras" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>periodo</element>
+            <name>x_1766507_unit_cadeiras</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:56:57</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>periodo</sys_name>
+            <sys_package display_value="Unit" source="x_1766507_unit">e8487f2ac36922103a8378cc05013183</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Unit">e8487f2ac36922103a8378cc05013183</sys_scope>
+            <sys_update_name>sys_choice_x_1766507_unit_cadeiras_periodo</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:56:57</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:56:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:57:16</sys_updated_on>
+            <value>1 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:59:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:59:32</sys_updated_on>
+            <value>10 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:57:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:57:31</sys_updated_on>
+            <value>2 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:57:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:57:47</sys_updated_on>
+            <value>3 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:57:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:58:02</sys_updated_on>
+            <value>4 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:58:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:58:18</sys_updated_on>
+            <value>5 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:58:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:58:32</sys_updated_on>
+            <value>6 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:58:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:58:45</sys_updated_on>
+            <value>7 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:58:58</sys_updated_on>
+            <value>8 periodo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>periodo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>9° Periodo</label>
+            <language>en</language>
+            <name>x_1766507_unit_cadeiras</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 23:59:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 23:59:16</sys_updated_on>
+            <value>9 periodo</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

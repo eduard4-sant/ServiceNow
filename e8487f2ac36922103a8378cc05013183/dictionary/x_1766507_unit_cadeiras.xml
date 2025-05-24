@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="45f3ccfac3a922103a8378cc05013117" label="Cadeiras" max_length="40" name="x_1766507_unit_cadeiras" type="collection">
+        <element display="true" label="Nome da cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
+        <element choice="3" default="1° Periodo" label="Periodo" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="9° Periodo" value="9 periodo"/>
+                <element inactive_on_update="false" label="7° Periodo" value="7 periodo"/>
+                <element inactive_on_update="false" label="1° Periodo" value="1 periodo"/>
+                <element inactive_on_update="false" label="3° Periodo" value="3 periodo"/>
+                <element inactive_on_update="false" label="6° Periodo" value="6 periodo"/>
+                <element inactive_on_update="false" label="4° Periodo" value="4 periodo"/>
+                <element inactive_on_update="false" label="2° Periodo" value="2 periodo"/>
+                <element inactive_on_update="false" label="5° Periodo" value="5 periodo"/>
+                <element inactive_on_update="false" label="10° Periodo" value="10 periodo"/>
+                <element inactive_on_update="false" label="8° Periodo" value="8 periodo"/>
+            </choice>
+        </element>
+        <element label="Professor" max_length="32" name="professor" reference="x_1766507_unit_professores" type="reference"/>
+        <index name="index">
+            <element name="professor"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="45180cbec3a922103a8378cc05013194" label="m2m_alunos_Cadeiras" max_length="40" name="x_1766507_unit_x_1766507_boletim" type="collection">
+        <element label="Nota 1" max_length="40" name="nota_1" type="integer"/>
+        <element label="Nota 2" max_length="40" name="nota_2" type="integer"/>
+        <element attributes="encode_utf8=false" label="Cadeiras" max_length="32" name="x_1766507_unit_cadeiras" reference="x_1766507_unit_cadeiras" type="reference"/>
+        <element attributes="encode_utf8=false" label="alunos" max_length="32" name="x_1766507_unit_alunos" reference="x_1766507_unit_alunos" type="reference"/>
+        <element label="Média" max_length="40" name="media" type="integer"/>
+        <index name="index">
+            <element name="x_1766507_unit_alunos"/>
+        </index>
+        <index name="index2">
+            <element name="x_1766507_unit_cadeiras"/>
+        </index>
+    </element>
+</database>
