@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9820fe61c37122103a8378cc05013136" label="m2m_Professores_Cadeiras" max_length="40" name="x_1766507_unit_x_1766507_disciplinaatribuida" type="collection">
+        <element attributes="encode_utf8=false" label="Cadeiras" max_length="32" name="x_1766507_unit_cadeiras" reference="x_1766507_unit_cadeiras" type="reference"/>
+        <element attributes="encode_utf8=false" label="Professores" max_length="32" name="x_1766507_unit_professores" reference="x_1766507_unit_professores" type="reference"/>
+        <index name="index">
+            <element name="x_1766507_unit_cadeiras"/>
+        </index>
+        <index name="index2">
+            <element name="x_1766507_unit_professores"/>
+        </index>
+    </element>
+</database>

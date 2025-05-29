@@ -4,13 +4,13 @@
             <element>first_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>a3c65667c3a122103a8378cc05013114</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>0222fe65c37122103a8378cc050131ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>last_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>2bc65667c3a122103a8378cc05013114</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>8a22fe65c37122103a8378cc050131ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>nome</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>afc65667c3a122103a8378cc05013114</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>0222fe65c37122103a8378cc050131ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>numero_de_matricula</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>27c65667c3a122103a8378cc05013115</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>8622fe65c37122103a8378cc050131ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>localizacao</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>abc65667c3a122103a8378cc05013115</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>0e22fe65c37122103a8378cc050131ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>23c65667c3a122103a8378cc05013116</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>8222fe65c37122103a8378cc050131f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>data_de_contratacao</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>a7c65667c3a122103a8378cc05013116</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>0a22fe65c37122103a8378cc050131f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>data_de_demiss_o</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>2fc65667c3a122103a8378cc05013116</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>8e22fe65c37122103a8378cc050131f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>data_de_nascimento</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>a3c65667c3a122103a8378cc05013117</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>0622fe65c37122103a8378cc050131f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>ativo</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>2bc65667c3a122103a8378cc05013117</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>8a22fe65c37122103a8378cc050131f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,27 @@
             <element>manager</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-05-22 18:21:47</sys_created_on>
-            <sys_id>afc65667c3a122103a8378cc05013117</sys_id>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>0222fe65c37122103a8378cc050131f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-22 18:21:47</sys_updated_on>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 01:29:08</sys_created_on>
+            <sys_id>8622fe65c37122103a8378cc050131f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1766507_unit_professores" sys_domain="global" view="Default view">5672447ac3a922103a8378cc05013104</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 01:29:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
