@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="45f3ccfac3a922103a8378cc05013117" label="Cadeiras" max_length="40" name="x_1766507_unit_cadeiras" type="collection">
-        <element display="true" label="Nome da cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
-        <element choice="3" default="1° Periodo" label="Periodo" max_length="40" name="periodo" type="choice">
+        <element label="Nome da cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
+        <element choice="3" default="1° Periodo" display="true" label="Periodo" max_length="40" name="periodo" type="choice">
             <choice>
                 <element inactive_on_update="false" label="9° Periodo" value="9 periodo"/>
                 <element inactive_on_update="false" label="7° Periodo" value="7 periodo"/>

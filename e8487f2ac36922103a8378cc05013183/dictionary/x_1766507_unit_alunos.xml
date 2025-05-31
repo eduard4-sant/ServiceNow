@@ -2,6 +2,12 @@
     <element db_object_id="f76affaec36922103a8378cc050131c4" extends="sys_user" label="alunos" max_length="40" name="x_1766507_unit_alunos" type="collection">
         <element display="true" label="Nome" max_length="100" name="nome" type="string"/>
         <element label="Data de formação" max_length="40" name="data_de_formacao" type="glide_date"/>
+        <element choice="1" label="Ênfase" max_length="40" name="nfase" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Desenvolvimento web" value="10_web"/>
+                <element inactive_on_update="false" label="Data science" value="data_science"/>
+            </choice>
+        </element>
         <element label="Data de matricula" max_length="40" name="data_de_matricula" type="glide_date"/>
         <element choice="3" default="Manhã" label="Turno" max_length="40" name="turno" type="choice">
             <choice>

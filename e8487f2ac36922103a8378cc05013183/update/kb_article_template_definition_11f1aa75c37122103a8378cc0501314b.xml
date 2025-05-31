@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template_definition">
+    <kb_article_template_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article_template display_value="Template plano de aula">93c1a675c37122103a8378cc050131f5</article_template>
+        <collapsible/>
+        <column_label>Publico alvo</column_label>
+        <column_type>string</column_type>
+        <field_style/>
+        <heading_style/>
+        <mandatory>true</mandatory>
+        <order/>
+        <preview_text/>
+        <sys_class_name>kb_article_template_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 18:57:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>11f1aa75c37122103a8378cc0501314b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Publico alvo</sys_name>
+        <sys_package display_value="Unit" source="x_1766507_unit">e8487f2ac36922103a8378cc05013183</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unit">e8487f2ac36922103a8378cc05013183</sys_scope>
+        <sys_update_name>kb_article_template_definition_11f1aa75c37122103a8378cc0501314b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 18:57:42</sys_updated_on>
+        <table_column>x_1766507_unit_u_kb_publico_alvo</table_column>
+    </kb_article_template_definition>
+</record_update>

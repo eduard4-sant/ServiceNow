@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom">
+    <kb_uc_can_read_mtom action="INSERT_OR_UPDATE">
+        <kb_knowledge_base display_value="secretaria virtual">9d6e5671c37122103a8378cc050131bf</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_read_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 18:50:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c80ae71c37122103a8378cc05013195</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>secretaria virtual.Usuario da Unit</sys_name>
+        <sys_package display_value="Unit" source="x_1766507_unit">e8487f2ac36922103a8378cc05013183</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unit">e8487f2ac36922103a8378cc05013183</sys_scope>
+        <sys_update_name>kb_uc_can_read_mtom_4c80ae71c37122103a8378cc05013195</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 18:50:28</sys_updated_on>
+        <user_criteria display_value="Usuario da Unit">3040ee71c37122103a8378cc050131d4</user_criteria>
+    </kb_uc_can_read_mtom>
+</record_update>
