@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 02:20:30</sys_created_on>
+        <sys_id>01cdfaa1c3b122103a8378cc050131f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1766507_unit.UNIT_professor</sys_name>
+        <sys_package display_value="Unit" source="x_1766507_unit">e8487f2ac36922103a8378cc05013183</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unit">e8487f2ac36922103a8378cc05013183</sys_scope>
+        <sys_security_acl display_value="">c0cd3a25c3b122103a8378cc050131be</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_01cdfaa1c3b122103a8378cc050131f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 02:20:30</sys_updated_on>
+        <sys_user_role display_value="x_1766507_unit.UNIT_professor" name="x_1766507_unit.UNIT_professor">ff4a52abc3a122103a8378cc05013185</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Unit">e8487f2ac36922103a8378cc05013183</application>
+        <file_path/>
+        <instance_id>f4674b033b2fced0986d048aa4e45a05</instance_id>
+        <instance_name>dev279657</instance_name>
+        <name>sys_security_acl_role_01cdfaa1c3b122103a8378cc050131f0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 02:20:30</sys_created_on><sys_id>01cdfaa1c3b122103a8378cc050131f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1766507_unit.UNIT_professor</sys_name><sys_package display_value="Unit" source="x_1766507_unit">e8487f2ac36922103a8378cc05013183</sys_package><sys_policy/><sys_scope display_value="Unit">e8487f2ac36922103a8378cc05013183</sys_scope><sys_security_acl display_value="">c0cd3a25c3b122103a8378cc050131be</sys_security_acl><sys_update_name>sys_security_acl_role_01cdfaa1c3b122103a8378cc050131f0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 02:20:30</sys_updated_on><sys_user_role display_value="x_1766507_unit.UNIT_professor" name="x_1766507_unit.UNIT_professor">ff4a52abc3a122103a8378cc05013185</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1732133310</payload_hash>
+        <record_name>.x_1766507_unit.UNIT_professor</record_name>
+        <reverted_from/>
+        <source>08ca710cc33922103a8378cc05013140</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 02:20:30</sys_created_on>
+        <sys_id>aaed3a25c3b122103a8378cc050131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19719d750da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 02:20:30</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>aeed3a25c6b122100ca8923aded0fec5</update_guid>
+        <update_guid_history>aeed3a25c6b122100ca8923aded0fec5:-1732133310</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1766507_unit.UNIT_professor">a4bf6efec331a2103a8378cc050131c3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-01 22:30:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>17b91297739645d9837c3af64fd61a79</sys_id>
+        <sys_metadata>01cdfaa1c3b122103a8378cc050131f0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1766507_unit.UNIT_professor</sys_name>
+        <sys_package display_value="Unit" source="x_1766507_unit">e8487f2ac36922103a8378cc05013183</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Unit">e8487f2ac36922103a8378cc05013183</sys_scope>
+        <sys_scope_delete display_value="">e9034b754a154ac69aada2a01e680589</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_01cdfaa1c3b122103a8378cc050131f0</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_01cdfaa1c3b122103a8378cc050131f0">aaed3a25c3b122103a8378cc050131c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-01 22:30:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

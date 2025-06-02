@@ -21,7 +21,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="Unit">e8487f2ac36922103a8378cc05013183</sys_scope>
         <sys_update_name>sys_dictionary_x_1766507_unit_cadeiras_nome_da_cadeira</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-31 03:57:26</sys_updated_on>
+        <sys_updated_on>2025-06-01 23:27:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

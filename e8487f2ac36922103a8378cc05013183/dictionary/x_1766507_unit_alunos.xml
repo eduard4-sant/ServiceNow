@@ -19,6 +19,19 @@
         <element label="Localização" max_length="32" name="localizacao" reference="cmn_location" type="reference"/>
         <element label="Data de nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
         <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element choice="1" label="Período" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2° Periodo" value="2_periodo"/>
+                <element inactive_on_update="false" label="5° Periodo" value="5_periodo"/>
+                <element inactive_on_update="false" label="6° Periodo" value="6_periodo"/>
+                <element inactive_on_update="false" label="9° Periodo" value="9_periodo"/>
+                <element inactive_on_update="false" label="3° Periodo" value="3_periodo"/>
+                <element inactive_on_update="false" label="4° Periodo" value="4_periodo"/>
+                <element inactive_on_update="false" label="8° Periodo" value="8_periodo"/>
+                <element inactive_on_update="false" label="1° Periodo" value="1_periodo"/>
+                <element inactive_on_update="false" label="7° Periodo" value="7_periodo"/>
+            </choice>
+        </element>
         <index name="index">
             <element name="localizacao"/>
         </index>

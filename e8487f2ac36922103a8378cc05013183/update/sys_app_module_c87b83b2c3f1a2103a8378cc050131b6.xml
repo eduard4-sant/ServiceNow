@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Unit">5ffaf3aec36922103a8378cc050131cb</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1766507_unit_alunos">ativo=true^EQ<item endquery="false" field="ativo" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Alunos ativos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1766507_unit_alunos</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-02 00:32:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c87b83b2c3f1a2103a8378cc050131b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alunos ativos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Unit" source="x_1766507_unit">e8487f2ac36922103a8378cc05013183</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Unit">e8487f2ac36922103a8378cc05013183</sys_scope>
+        <sys_update_name>sys_app_module_c87b83b2c3f1a2103a8378cc050131b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-02 00:32:24</sys_updated_on>
+        <timeline_page/>
+        <title>Alunos ativos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
